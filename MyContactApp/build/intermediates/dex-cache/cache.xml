@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_7174ea6fd205e0512e49216051bfe0be79a05c4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_69baad57bc33be15880df485e5432109850b1b99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_a9a0586db653cc3b3ef7687b25aa95005f4b44a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_4e6c307ef6ea97e943e7054f17c3a057e07af503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_6591b976e66aec0e4c1deb16447ca988ac20c0fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\3.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="189cdb5ed1f6c37a6c327b3a220ad1bb95bb64f1">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\com.wdullaer-materialdatetimepicker-3.2.2_889e44a19ec52c681b0b6eca124dd52bd7f89157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.3.1_b4d300fbd7a40ea153e102a7b6af8207f9d9f5a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_3e16ab92c0274c1c05f150ac222285546ab33eaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_3c9939b6d7841bcd9a0f36f859bdaed79558f9ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_c61aec97731d3b7802ee098d3621f1ed59e762b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_6cb25d85b68dc1ab8e476784c56f4f4dac34d891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_08c200473bf738f93b6833796e8e5cd85bd5cb22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_48574159b933a835527467684c9e361339b780f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Ariel Arnedo\Documents\Android Projects\MyContactApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_25411499a7e64aa78b628bf002a1441e2aac9059.jar" />
+    </item>
+
+</items>
